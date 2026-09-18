@@ -1,0 +1,11 @@
+{
+  "generator": "built-in image_gen",
+  "id": "remilia-furious",
+  "refs": [
+    "assets\\레밀리아_new\\cg-v2\\neutral.png",
+    "assets\\레밀리아_new\\매우화남2.webp"
+  ],
+  "prompt": "Use case: illustration-story. Production visual-novel character sprite. Create ONE isolated character, genuine transparent RGBA background; no backdrop, no aura, no floor, no text, no speech balloon, no watermark. Polished clean 2D anime illustration, precise thin lines, smooth controlled cel shading and clean solid colors, no stippling, no grain, no painterly noise. Preserve exactly the face structure, hair design, clothing ornaments and proportions of the NEW master image. Emotion must remain very legible at game size. Image 1 is the approved NEW identity, art style and pale pink long-gown costume master. Image 2 is OLD reference ONLY for the intensity of rage and shadow over eyes, NOT its clothing or art style. Make a new waist-up confrontation portrait of Remilia Scarlet, straight-on, shoulders squared, chin slightly lowered, gazing directly at the viewer with piercing narrow crimson eyes, very sharply knitted brows, a broad hard-edged shadow across the brow and upper eyes, furious mouth slightly open showing small clenched vampire fangs. NO blush, NO smile, NO cute pouting or comic anger symbol. She has been deeply hurt by an insult to her household and is now dangerously furious while ordering the guest to leave. One hand tightly clenched near her waist, other held tense and lowered. Menacing authoritative stillness. Keep her rounded youthful face identity, lavender-blue bob, pink frilled cap and large crimson bow, crimson neckbow and oval red brooch, puff sleeves and long pale pink gown. Both bat wings with their full outer tips visible within the frame; allow side margin. Camera closer to face than full-body master, waist-up, face large enough to clearly read terrifying anger, square image.",
+  "path": "assets/레밀리아_new/cg-v2/furious.png",
+  "source": "C:\\Users\\user\\.codex\\generated_images\\01a0b34a-ab8d-7e91-8732-6860d7a5b404\\exec-16780acd-4ff6-46ca-80b8-88e40d1fb345.png"
+}

@@ -1,0 +1,11 @@
+{
+  "generator": "built-in image_gen",
+  "id": "sakuya-furious",
+  "refs": [
+    "assets\\사쿠야_new\\cg-v2\\neutral.png",
+    "assets\\사쿠야_new\\냉정.webp"
+  ],
+  "prompt": "Use case: illustration-story. Production visual-novel character sprite. Create ONE isolated character, genuine transparent RGBA background; no backdrop, no aura, no floor, no text, no speech balloon, no watermark. Polished clean 2D anime illustration, precise thin lines, smooth controlled cel shading and clean solid colors, no stippling, no grain, no painterly noise. Preserve exactly the face structure, hair design, clothing ornaments and proportions of the NEW master image. Emotion must remain very legible at game size. Image 1 is approved NEW Sakuya identity and smooth art style master. Image 2 is OLD reference ONLY for intimidating shadowed eyes and confronting cold anger, NOT its rendering. Create a waist-up confrontational portrait of Sakuya Izayoi, square composition, head and both hands wholly inside frame. Exact silver bob and two front braids with teal-green bows, blue eyes, white frilled maid headband, navy blue buttoned bodice, white blouse and apron, black neck ribbon. Cold barely contained fury at the person who insulted her mistress. She looks directly DOWN toward viewer from slightly raised chin, brows deeply lowered and drawn together, narrow intense icy blue eyes beneath a broad crisp shadow over the upper face. Lips compressed into an unmistakably angry hard line, jaw tense, NO smile, NO blush, NO cute pout. Shoulders square, one forearm across lower torso gripping the other forearm with controlled tension; gloved? NO gloves, bare hands consistent with master. Powerful composed menace, threatening without shouting. No weapons, no injury, no violence effects. Waist-up framing makes intense facial emotion clear.",
+  "path": "assets/사쿠야_new/cg-v2/furious.png",
+  "source": "C:\\Users\\user\\.codex\\generated_images\\01a0b34a-ab8d-7e91-8732-6860d7a5b404\\exec-967b6e32-7908-49dd-bc31-d328e0042fa4.png"
+}

@@ -1,0 +1,11 @@
+{
+  "generator": "built-in image_gen",
+  "id": "sakuya-fury-full",
+  "refs": [
+    "assets\\사쿠야_new\\cg-v2\\neutral.png",
+    "assets\\사쿠야_new\\냉정.webp"
+  ],
+  "prompt": "Use case: illustration-story. Create ONE production visual-novel FULL BODY transparent RGBA character CG of Sakuya Izayoi, overwhelming cold anger while physically blocking an insulting guest's path. Image1 is exact approved NEW identity/clothes and clean smooth anime art style. Image2 is OLD reference ONLY for severe intimidating shadowed eyes, not style. Preserve silver short layered bob and two front braids tied with teal bows, intense blue eyes, white frilled maid headband, navy blue buttoned bodice over white short-sleeved blouse, black neck ribbon, white frilled apron over navy flared knee-length skirt, white socks and dark simple maid shoes. Mature young woman, master proportions. Show entire headpiece, both hands, entire skirt, both legs and both shoes inside 5% transparent margins, portrait 1024x1536. Low camera angle increases authority without distorting body; upright squared shoulders, feet firmly planted, body directly facing viewer, blocking passage. One arm extended firmly sideways toward the exit with a flat straight hand, other bare hand tensely closed by her side. Face is unmistakably furious but extremely controlled: brows sharply down and knitted, ice-blue eyes narrowed into a penetrating glare DOWN at viewer, a broad deep hard-edged shadow covers brow/upper eyes, stern tense lips and clenched jaw, no smile or blush or cute pouting. A terrifyingly loyal head maid says 'Leave. Do not knock again.' but do NOT put any written text in the image. Powerful stillness, no shouting. Clean crisp anime linework, smooth opaque cel color, strong directional shadow on character only, no stippling or grain. Genuine transparent background, no backdrop, floor, seat, smoke, aura, speed lines, weapons or other objects. Complete full body, NOT thigh crop.",
+  "path": "assets/사쿠야_new/cg-v2/fury-full.png",
+  "source": "C:\\Users\\user\\.codex\\generated_images\\01a0b34a-ab8d-7e91-8732-6860d7a5b404\\exec-cd7fd9bf-b0a0-4e1e-ae8c-83fdf71bd058.png"
+}

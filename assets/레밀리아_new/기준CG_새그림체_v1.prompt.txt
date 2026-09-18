@@ -1,0 +1,19 @@
+Tool: built-in image_gen
+Input references: none
+Output: 기준CG_새그림체_v1.png
+Status: new art-direction master draft; solid pale background; not installed into the game.
+
+Use case: stylized-concept.
+Asset type: ONE new master character sprite for a polished 2D Japanese visual novel. This is a fresh art direction, not an edit of any previous image. Do not use the previous images as style or face references.
+
+Subject: Remilia Scarlet from Touhou Project, a petite youthful vampire character with short soft lavender-blue bobbed hair, ruby-red eyes, two complete dark bat wings, a white frilled mob cap with a crimson ribbon, and a modest pale pink-white dress with a crimson neck ribbon. Faithful recognizable character design, but create a coherent new professional visual novel art style.
+
+Art direction: clean elegant 2D anime line art, precise smooth contours, restrained line weight variation, flat coherent base colors and two clean cel-shading levels. A little controlled gradient in the irises is fine. Smooth untextured skin, clean simple hair highlight shapes, carefully designed fabric folds and ruffles with no excess ornament. Expressive but understated. Not painterly, not 3D, not photorealistic. Avoid the glossy, hyper-rendered, overdecorated appearance of generic AI character art. Absolutely no stippling, dot texture, grain, sketch hatching, watercolor texture, scratchy edge noise, or glitter. The image must be legible as a reusable game sprite.
+
+Pose and expression: straight-on neutral standing pose, shoulders level, arms relaxed, head upright, direct gaze, calm reserved small closed-mouth smile with a little aristocratic self-confidence. Gentle rounded cheeks and a short softly tapered chin, consistent red eye shapes, simple believable facial proportions. Hair is a tidy chin-length bob with a clear, repeatable fringe design. No adult body emphasis, no revealing clothing, no cleavage.
+
+Composition: wide 3:2 canvas around 1536x1024. One character only, centered, framed from the top of her cap to mid-thigh. Enough width for both bat wings to be completely visible; at least 7 percent clear space between the outermost wing tip and each side edge. Both wings attach behind her shoulders in a clean, symmetric, slightly lowered relaxed arrangement; clear simple bat-wing anatomy with three restrained lower scallops per wing. Wings cannot touch or be cropped by the canvas. Also leave clear space above the cap. No props, no alternate poses, no character sheet, no panels.
+
+Background: perfectly uniform pale neutral gray (#EEF0F4), no scenery, no cast shadow, no vignette. Use a solid background for this first art-direction master so that fine alpha-edge artifacts are not introduced. Do not simulate transparency or draw a checkerboard. The bottom is an intentional mid-thigh crop; all wings, hands, cap, bow and hair remain fully inside the image.
+
+Output: one exceptionally clean, attractive high-quality character illustration suitable for establishing a fixed face, hair, costume and wing design. No words, logos, border, watermark, symbols or effects.

@@ -1,0 +1,10 @@
+{
+  "generator": "built-in image_gen",
+  "id": "patchouli/full",
+  "refs": [
+    "D:\\project\\game\\레밀리아\\assets\\파츄리\\cg-v2\\master-reading.png"
+  ],
+  "prompt": "Use case: identity-preserve. Input1 is the sole authoritative new Patchouli design and illustration style. Create ONE fullbody standing entrance sprite: same face, lavender eyes, long lavender hair and hair bows, pale lilac cap with GOLD CRESCENT same front side and blue/pink side ribbons, brown neck bow, modest vertically striped white/lilac long dress and loose sleeves with ruffles. Extend exact existing dress to ankle length, softly folded hem, simple modest lilac flat shoes. NO costume redesign. Standing upright, body in subtle three-quarter angle, head slightly inclined toward an OPEN burgundy book held in front at chest/waist height, one finger pausing on page edge. Quiet scholarly composed expression. Full figure head to toes and flowing hair entirely within5%clear margins on1024x1536 portrait canvas. Same smooth clean2D anime cel shading and crisp outlines, no dots/grain/texture/3D. Genuine transparent RGBA PNG background, opaque character and book, antialiased silhouette. No scene, text, floating effects, checkerboard or shadows.",
+  "path": "assets/파츄리/cg-v2/full.png",
+  "source": "C:\\Users\\user\\.codex\\generated_images\\01a0b34a-ab8d-7e91-8732-6860d7a5b404\\exec-2052849f-f46e-4156-92b0-dd4c89d303e9.png"
+}

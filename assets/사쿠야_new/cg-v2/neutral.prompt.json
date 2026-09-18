@@ -1,0 +1,11 @@
+{
+  "generator": "built-in image_gen",
+  "id": "sakuya/neutral",
+  "prompt": "Use case: style-transfer. Create ONE neutral standing visual novel sprite of Sakuya Izayoi. Input1 is ONLY the approved rendering STYLE reference: very clean 2D anime outlines, simple smooth cel shadows, soft pastel highlights with no surface noise. Input2 is ONLY Sakuya's identity and costume design reference, ignore its old glossy rendering and colored artifacts outside alpha. Draw Sakuya as a poised adult woman, distinct from youthful Remilia: silver bob with two short side braids and teal ribbons, blue eyes, white ruffled maid headband, navy blue modest maid dress, white puff sleeves and shoulder frills, white apron, black neck ribbon. Calm attentive expression, upright head angled 5 degrees, both hands neatly resting together in front at waist, fingers visible. Slim adult anatomy. Centered from headband to mid-thigh, entire head and arms inside with 5% margin, 1024x1536 portrait canvas. Same refined clean cel drawing language as input1, NOT its face age, clothes, wings or hat. Genuine transparent RGBA PNG background, fully opaque interior, soft antialias only at contours. No scenery, checkerboard, glows, text, weapons, grain, stippling, painterly texture, photorealism or 3D.",
+  "refs": [
+    "D:\\project\\game\\레밀리아\\assets\\레밀리아_new\\기준CG_새그림체_v1.png",
+    "D:\\project\\game\\레밀리아\\assets\\사쿠야_new\\기본표정.webp"
+  ],
+  "path": "assets/사쿠야_new/cg-v2/neutral.png",
+  "source": "C:\\Users\\user\\.codex\\generated_images\\01a0b34a-ab8d-7e91-8732-6860d7a5b404\\exec-63a566e9-673c-45e1-9ce7-db676b499e7f.png"
+}

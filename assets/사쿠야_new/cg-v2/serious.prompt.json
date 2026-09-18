@@ -1,0 +1,10 @@
+{
+  "generator": "built-in image_gen",
+  "id": "sakuya/serious",
+  "prompt": "Use case: identity-preserve. Input1 is the ONLY authoritative Sakuya character master, already in the approved new clean anime art style. Create ONE pose and expression variant, NOT a redesign. EXACT same adult face proportions, blue eyes, silver bob and side braids, teal bow ties, white ruffled headband, navyblue maid bodice with4dark buttons and white apron, black neck ribbon, white puff sleeves/cuffs and shoulder frills. Same clean smooth2D VN cel shading and precise lines. No grain,dots,hatching,texture,3D,glossy realism or painterly rendering. Keep original1024x1536 canvas and same character scale, from headband to mid-thigh with head/arms/hands fully in frame. Genuine transparent RGBA background, character fully opaque, clean antialiased silhouette. Five fingers per hand; no extra limb, tools, text, background or checkerboard. Do NOT alter costume. Change only pose/expression: Attentive and serious, brows subtly knit and lips closed, head turns10degrees to one side while eyes return toward viewer. One forearm across waist, opposite hand lightly touches chin with curled fingers, an assessing thoughtful gesture. Not smiling, not threatening.",
+  "refs": [
+    "D:\\project\\game\\레밀리아\\assets\\사쿠야_new\\cg-v2\\neutral.png"
+  ],
+  "path": "assets/사쿠야_new/cg-v2/serious.png",
+  "source": "C:\\Users\\user\\.codex\\generated_images\\01a0b34a-ab8d-7e91-8732-6860d7a5b404\\exec-019ec760-f211-4178-b957-2ee80368767b.png"
+}

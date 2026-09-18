@@ -1,0 +1,55 @@
+/* 새 투명 CG는 날개와 손을 포함한 원본 비율로 배치합니다. */
+.game-mode .portrait.cg-portrait {
+  min-height: 0;
+  width: auto;
+  height: 83svh;
+  max-width: 96vw;
+  bottom: 5svh;
+  object-position: center bottom;
+  mask-image: linear-gradient(to bottom, #000 84%, transparent 100%);
+}
+.game-mode .portrait.cg-portrait[data-frame="gown"] {
+  width: min(96vw, 83svh);
+  height: auto;
+  bottom: 9svh;
+}
+.title-mode .portrait.cg-portrait {
+  left: 67%;
+  width: min(65vw, 85svh);
+  height: auto;
+  min-height: 0;
+  bottom: 9svh;
+}
+.gallery img {
+  object-fit: contain;
+  object-position: center;
+}
+@media (max-width: 760px) {
+  .game-mode[data-background="shrine"] .portrait.cg-portrait.reimu-portrait {
+    left: 50%;
+  }
+  .game-mode .portrait.cg-portrait {
+    height: 64svh;
+    bottom: 24svh;
+  }
+  .game-mode .portrait.cg-portrait[data-frame="gown"] {
+    width: min(96vw, 64svh);
+    top: 14svh;
+    bottom: auto;
+  }
+  .title-mode .portrait.cg-portrait {
+    left: 65%;
+    width: 68vw;
+    bottom: 36svh;
+  }
+}
+@media (max-height: 520px) and (orientation: landscape) {
+  .game-mode .portrait.cg-portrait { height: 90svh; bottom: 0; }
+  .game-mode .portrait.cg-portrait[data-frame="gown"] {
+    width: min(94vw, 90svh);
+    height: auto;
+    top: 9svh;
+    bottom: auto;
+  }
+  .title-mode .portrait.cg-portrait { bottom: 4svh; }
+}

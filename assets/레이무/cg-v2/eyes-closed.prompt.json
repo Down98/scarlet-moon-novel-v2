@@ -1,0 +1,10 @@
+{
+  "generator": "built-in image_gen",
+  "id": "reimu-eyes-closed",
+  "refs": [
+    "assets\\레이무\\cg-v2\\neutral.png"
+  ],
+  "prompt": "Use case: identity-preserve. ONE new gesture/expression variant derived ONLY from the attached NEW Reimu Hakurei master. Keep exactly this fresh face, warm amber-brown almond eyes, dark chocolate long hair with center-break bangs, large red-white frilled bow and side ribbons, red dress/white collar/short yellow necktie, detached white sleeves with red ribbon, red skirt and white frilled hem. Match the master's polished clean fine anime linework and smooth simple cel colors; no textured shading, grain or stippling. Same seated three-quarter orientation, normal adult proportions. Show entire bow/head/long hair/arms/hands and seated skirt through knees. Both upper bow tips inside clear transparent top margin, sides and fingers inside frame; portrait 1024x1536. Genuine transparent RGBA background, no glow, no floor/bench/scenery, no text or watermark. Keep hand/head gesture natural; change pose as described, not merely the mouth. Quiet inward concentration on memory and reincarnation. Eyes fully and gently closed, eyebrows thoughtful rather than sad, chin inclined slightly downward. Right hand lightly touches chin with index finger, left arm supports right elbow across waist, sleeves drape naturally. Calm serious closed lips. No tears, no sigh puff, no magical effects, no props.",
+  "path": "assets/레이무/cg-v2/eyes-closed.png",
+  "source": "C:\\Users\\user\\.codex\\generated_images\\01a0b34a-ab8d-7e91-8732-6860d7a5b404\\exec-f9dccb47-bdc5-4b3c-b855-dbe2322698d3.png"
+}

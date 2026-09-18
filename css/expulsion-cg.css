@@ -1,0 +1,51 @@
+/* 분노 표정은 가까이, 추방 전신은 대화창 위에 전부 보여 줍니다. */
+.game-mode .portrait.cg-portrait[data-frame="confrontation"] {
+  width: min(94vw, 76svh);
+  height: auto;
+  top: auto;
+  bottom: 12svh;
+}
+.game-mode .portrait.cg-portrait[data-frame^="intimidation-"] {
+  width: auto;
+  height: 65svh;
+  max-width: 94vw;
+  top: auto;
+  bottom: 28svh;
+  mask-image: none;
+}
+.game-mode .portrait.cg-portrait[data-frame="intimidation-wide"] {
+  width: min(94vw, 65svh);
+  height: auto;
+}
+@media (max-width: 760px) {
+  .game-mode .portrait.cg-portrait[data-frame="confrontation"] {
+    width: min(96vw, 58svh);
+    top: 13svh;
+    bottom: auto;
+  }
+  .game-mode .portrait.cg-portrait[data-frame^="intimidation-"] {
+    height: 55svh;
+    top: 10svh;
+    bottom: auto;
+  }
+  .game-mode .portrait.cg-portrait[data-frame="intimidation-wide"] {
+    width: min(96vw, 55svh);
+    height: auto;
+  }
+}
+@media (max-height: 520px) and (orientation: landscape) {
+  .game-mode .portrait.cg-portrait[data-frame="confrontation"] {
+    width: min(94vw, 83svh);
+    top: 8svh;
+    bottom: auto;
+  }
+  .game-mode .portrait.cg-portrait[data-frame^="intimidation-"] {
+    height: 59svh;
+    top: 6svh;
+    bottom: auto;
+  }
+  .game-mode .portrait.cg-portrait[data-frame="intimidation-wide"] {
+    width: min(94vw, 59svh);
+    height: auto;
+  }
+}

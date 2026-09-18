@@ -1,0 +1,10 @@
+{
+  "generator": "built-in image_gen",
+  "id": "remilia/neutral",
+  "refs": [
+    "D:\\project\\game\\레밀리아\\assets\\레밀리아_new\\기준CG_새그림체_v1.png"
+  ],
+  "prompt": "Use case: identity-preserve and precise-object-edit. Input1 is the approved Remilia face, upper costume, wings, colors, and clean anime style. Correct an important costume mistake: she wears a LONG ANKLE-LENGTH GOWN, never a short skirt. Produce ONE neutral FULLBODY front sprite, same youthful round face, short chin, red eyes, lavender-blue bob and fringe, pink frilled cap with crimson bow viewer-left, pale pink collar with red crosses and red necktie/oval brooch, short puff sleeves with red bows, red waist sash and large back bow. Keep original rounded youthful proportions; do NOT make her older, taller, chibi, glamorous or 3D. Replace the short skirt with a gracefully voluminous pale pink ankle-length bell-shaped skirt dropping from the same waist. Long vertical fabric folds, a thin continuous crimson trim band near the ankle-length hem and a layered pale frilled hem. ALL legs covered down to ankles; only small dark crimson Mary Jane shoes peek out. No bare thighs or knees, no slit or short overskirt. Natural upright composed standing pose, feet planted evenly, hands gently overlapped in front of waist with relaxed fingers. Same complete dark gray-purple bat wings expanded to either side, both tips inside frame. Canvas1536x1536 square; whole cap, both full wings, entire LONG dress hem and shoes inside4% margins. Keep EXACT same high-quality clean fine anime outlines, smooth opaque pastel fills, gentle simple cel shadows and face rendering from input1. Absolutely no dots/grain/stippling/texture, no painterly/3D gloss. Genuine transparent RGBA PNG background, fully opaque character and clean antialias edges. No shadows, halos, scenery, checkerboard, text, accessories or redesign above waist. The primary requested change is ONLY the long gown, expanding framing to show its entire length.",
+  "path": "assets/레밀리아_new/cg-v2/neutral.png",
+  "source": "C:\\Users\\user\\.codex\\generated_images\\01a0b34a-ab8d-7e91-8732-6860d7a5b404\\exec-271a4456-076f-4ff9-97ec-c742283e3faa.png"
+}

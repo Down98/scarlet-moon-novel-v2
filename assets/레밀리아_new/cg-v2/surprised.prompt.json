@@ -1,0 +1,10 @@
+{
+  "generator": "built-in image_gen",
+  "id": "remilia/surprised",
+  "prompt": "Use case: identity-preserve. Input1 is the SOLE AUTHORITATIVE Remilia full-body LONG GOWN character master. Create ONE expression/hand-gesture variant. Preserve EXACT face proportions, small chin, red eye design, lavender-blue bob/fringe, pale pink cap/crimson bow, necktie/oval brooch, puff sleeves/bows, red waist sash and2complete dark gray-purple bat wings. Most important: preserve the LONG ANKLE-LENGTH pale pink bell-shaped dress with flowing vertical folds, one red band near the hem and layered frills. All legs remain covered; only small crimson Mary Jane shoes show. Never short skirt, bare knees, high slit, skirt lifted, new costume or chibi proportions. Original clean smooth anime cel shading/fine line art, consistent face identity and colors. NO grain,dots,stippling,painterly texture,3D,extra shine or background effects. Full figure with entire cap, both wings, dress hem and shoes fully visible with smallclear margin on1536x1536 square canvas. Same figure scale and position as master; do not crop. Genuine transparent RGBA PNG background, character fully opaque, antialiased outline. Exactly2arms,5fingers per hand. No text/checkerboard/scenery. Keep lower body and dress design unchanged, change upper-body gesture and head/expression only as follows: Startled: head recoils slightly and tilts8degrees, wide red eyes with raised brows, small open surprised mouth; both hands lifted near chest with naturally curled fingers, elbows apart. No huge cartoon deformation, no scream.",
+  "refs": [
+    "D:\\project\\game\\레밀리아\\assets\\레밀리아_new\\cg-v2\\neutral.png"
+  ],
+  "source": "C:\\Users\\user\\.codex\\generated_images\\01a0b34a-ab8d-7e91-8732-6860d7a5b404\\exec-947fcc93-78f6-4066-a3d6-7f1d52e225ce.png",
+  "path": "assets/레밀리아_new/cg-v2/surprised.png"
+}

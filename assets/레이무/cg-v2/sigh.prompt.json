@@ -1,0 +1,10 @@
+{
+  "generator": "built-in image_gen",
+  "id": "reimu-sigh",
+  "refs": [
+    "assets\\레이무\\cg-v2\\neutral.png"
+  ],
+  "prompt": "Use case: identity-preserve. ONE new gesture/expression variant derived ONLY from the attached NEW Reimu Hakurei master. Keep exactly this fresh face, warm amber-brown almond eyes, dark chocolate long hair with center-break bangs, large red-white frilled bow and side ribbons, red dress/white collar/short yellow necktie, detached white sleeves with red ribbon, red skirt and white frilled hem. Match the master's polished clean fine anime linework and smooth simple cel colors; no textured shading, grain or stippling. Same seated three-quarter orientation, normal adult proportions. Show entire bow/head/long hair/arms/hands and seated skirt through knees. Both upper bow tips inside clear transparent top margin, sides and fingers inside frame; portrait 1024x1536. Genuine transparent RGBA background, no glow, no floor/bench/scenery, no text or watermark. Keep hand/head gesture natural; change pose as described, not merely the mouth. A weary mildly exasperated sigh about waiting for visitors or donations. Both eyes softly closed, head turned slightly to viewer's right and tilted down, shoulders gently dropped, lips parted in a small exhale. Left hand raised palm-up at waist with a loose resigned gesture, right hand rests on knee. Very different arm pose from the contemplative eyes-closed pose. No tears, no sadness, NO drawn sigh cloud or speech balloon, no props.",
+  "path": "assets/레이무/cg-v2/sigh.png",
+  "source": "C:\\Users\\user\\.codex\\generated_images\\01a0b34a-ab8d-7e91-8732-6860d7a5b404\\exec-fbd4b7b1-da65-4532-978f-e7879fbdbb97.png"
+}

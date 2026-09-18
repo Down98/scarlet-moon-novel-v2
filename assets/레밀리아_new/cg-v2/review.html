@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>새 캐릭터 CG 비교</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="review.css">
+  <script defer src="../../../js/portrait-catalog.js"></script>
+  <script defer src="review.js"></script>
+</head>
+<body data-tone="dark">
+  <header>
+    <div><h1>새 캐릭터 CG</h1><p>그림을 누르면 크게 볼 수 있어요.</p></div>
+    <nav aria-label="비교 설정">
+      <label>캐릭터 <select id="character"><option value="">모두</option><option value="expulsion">추방 CG 4장</option><option>레밀리아</option><option>사쿠야</option><option>파츄리</option><option>레이무</option></select></label>
+      <label>배경 <select id="tone"><option value="dark">어두운색</option><option value="light">밝은색</option><option value="checker">투명 격자</option></select></label>
+    </nav>
+  </header>
+  <main id="cards"></main>
+  <dialog id="detail"><button id="close" aria-label="확대 보기 닫기">닫기 ×</button><div class="art"><img id="large" alt=""></div><p id="label"></p></dialog>
+</body>
+</html>

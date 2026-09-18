@@ -1,0 +1,10 @@
+{
+  "generator": "built-in image_gen",
+  "id": "remilia/shy",
+  "prompt": "Use case: identity-preserve. Input1 is the SOLE AUTHORITATIVE Remilia full-body LONG GOWN character master. Create ONE expression/hand-gesture variant. Preserve EXACT face proportions, small chin, red eye design, lavender-blue bob/fringe, pale pink cap/crimson bow, necktie/oval brooch, puff sleeves/bows, red waist sash and2complete dark gray-purple bat wings. Most important: preserve the LONG ANKLE-LENGTH pale pink bell-shaped dress with flowing vertical folds, one red band near the hem and layered frills. All legs remain covered; only small crimson Mary Jane shoes show. Never short skirt, bare knees, high slit, skirt lifted, new costume or chibi proportions. Original clean smooth anime cel shading/fine line art, consistent face identity and colors. NO grain,dots,stippling,painterly texture,3D,extra shine or background effects. Full figure with entire cap, both wings, dress hem and shoes fully visible with smallclear margin on1536x1536 square canvas. Same figure scale and position as master; do not crop. Genuine transparent RGBA PNG background, character fully opaque, antialiased outline. Exactly2arms,5fingers per hand. No text/checkerboard/scenery. Keep lower body and dress design unchanged, change upper-body gesture and head/expression only as follows: Shy and flattered: head turns12degrees aside and dips a little, red eyes avert, gentle smooth blush and tiny restrained smile. One hand lightly touches neck ribbon near collar; the other gently holds that forearm at waist. Face remains visible and identity fixed.",
+  "refs": [
+    "D:\\project\\game\\레밀리아\\assets\\레밀리아_new\\cg-v2\\neutral.png"
+  ],
+  "source": "C:\\Users\\user\\.codex\\generated_images\\01a0b34a-ab8d-7e91-8732-6860d7a5b404\\exec-a2414bde-08a1-4bd4-8c75-b5307f243b99.png",
+  "path": "assets/레밀리아_new/cg-v2/shy.png"
+}

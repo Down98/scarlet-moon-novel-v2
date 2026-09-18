@@ -1,0 +1,10 @@
+{
+  "generator": "built-in image_gen",
+  "id": "patchouli/neutral",
+  "refs": [
+    "D:\\project\\game\\레밀리아\\assets\\파츄리\\cg-v2\\master-reading.png"
+  ],
+  "prompt": "Use case: precise-object-edit, identity-preserve. Input1 is the exact approved Patchouli master. Preserve her face and neutral thoughtful expression, head angle, hair, cap/crescent/bows, dress design and all colors, body proportions, clean2D cel-shaded rendering, and1024x1536 cap-to-mid-thigh composition. STORY CONTEXT: after entering with a book, she CLOSES it and talks with her friend over tea; the narrative explicitly says she does not reopen the book. Change ONLY hands and book pose: close the same burgundy book fully and hold it vertically against her hip/waist with one arm. Other hand rests lightly on top of the closed book, fingers natural. No open pages visible, no other props. Keep character fully opaque on genuine transparent RGBA background, exact same fine lines/smooth shading, no added grain,dots,stippling,3D,halos,checkerboard or background. No new costume/face or cropped cap.",
+  "source": "C:\\Users\\user\\.codex\\generated_images\\01a0b34a-ab8d-7e91-8732-6860d7a5b404\\exec-e7e9f526-15da-42b2-bb2c-76fdc5f6bc3b.png",
+  "path": "assets/파츄리/cg-v2/neutral.png"
+}

@@ -1,0 +1,11 @@
+{
+  "generator": "built-in image_gen",
+  "id": "remilia-fury-full",
+  "refs": [
+    "assets\\레밀리아_new\\cg-v2\\neutral.png",
+    "assets\\레밀리아_new\\매우화남2.webp"
+  ],
+  "prompt": "Use case: illustration-story. Create ONE production visual-novel FULL BODY transparent RGBA character CG of Remilia Scarlet, imposing overwhelming anger while expelling an insulting guest. Input1 is EXACT approved NEW character identity, smooth clean anime style and LONG ANKLE-LENGTH pink gown costume master. Input2 is ONLY old facial-rage/eye-shadow intensity reference. Keep input1's same youthful round face, lavender-blue bob, pink ruffled cap and crimson ribbon, red necktie/oval brooch and red crosses, puff sleeves and red waist/back bow. Very long bell-shaped pale-pink skirt with continuous crimson stripe close to the hem and layered pale frills, covering all legs down to ankles, small red Mary Jane shoes. Entire head-to-shoes and both complete wings with tips inside 5% transparent margins. Square canvas, slight low camera angle, shoulders squared and spine straight, grounded firm stance, one arm extended decisively to the side with a straight pointing index finger ORDERING THE GUEST TOWARD THE EXIT, other fist tightly clenched at side. Wings raised and spread to an imposing wide silhouette, but anatomically consistent with master. Murderously furious piercing narrowed red eyes staring down directly at viewer under severe drawn-together eyebrows and a strong clean shadow over upper face; mouth open in commanding anger with small sharp vampire fangs. No blush, no grin, no cute pout, no sad face. Exude a powerful vampire mansion mistress whose patience has ended. Dramatic strong directional cel-shaded light and dark on character only, controlled deep shadows, crisp precise anime lines, smooth solid color fills; no dots, noise, stippling or textured brushwork. Genuine transparent background with clean alpha; NO scene, NO floor, NO haze/aura/smoke, NO additional items, no text or watermark. Full dress and shoe tips visible, NOT a waist-up crop.",
+  "path": "assets/레밀리아_new/cg-v2/fury-full.png",
+  "source": "C:\\Users\\user\\.codex\\generated_images\\01a0b34a-ab8d-7e91-8732-6860d7a5b404\\exec-b2de4c40-c86b-40fb-bae4-96a234d28f60.png"
+}

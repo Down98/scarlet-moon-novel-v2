@@ -1,9 +1,10 @@
-# Publish only the playable site and its public instructions.
+# Publish the playable site, asset provenance, and project instructions.
 /*
 !/.gitignore
 !/.gitattributes
 !/.nojekyll
 !/README.md
+!/AGENTS.md
 !/index.html
 !/css/
 !/js/
@@ -11,6 +12,7 @@
 !/docs/
 /docs/*
 !/docs/PLAYER_README.txt
+!/docs/CHARACTER_CG_GUIDE.md
 /assets/*
 !/assets/레밀리아_new/
 !/assets/사쿠야_new/
@@ -22,3 +24,5 @@
 *.log
 .DS_Store
 Thumbs.db
+# Superseded local CG experiments; current masters and cg-v2 remain included.
+/assets/레밀리아_new/새그림체_*_v1.*

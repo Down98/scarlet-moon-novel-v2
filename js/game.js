@@ -20,7 +20,7 @@
     refreshAudioPanel?.();
   }
   const names = { '레밀리아 스칼렛': 'REMILIA SCARLET', '이자요이 사쿠야': 'SAKUYA IZAYOI', '파츄리 널릿지': 'PATCHOULI KNOWLEDGE', '하쿠레이 레이무': 'REIMU HAKUREI', '레이무 · 속마음': 'REIMU · INNER VOICE', '당신': 'THE STRANGER', '당신 · 속마음': 'INNER VOICE', '': 'SCARLET MOON' };
-  const source = key => `assets/${story.assets[key]}.webp`;
+  const source = key => `assets/${story.assets[key]}`;
   function toast(message) {
     $('toast').textContent = message;
     $('toast').classList.add('visible');
@@ -42,6 +42,7 @@
   }
   function portrait(key, immediate = false) {
     if (lastPortrait === key && !immediate) return;
+    const sameImage = key && lastPortrait && story.assets[key] === story.assets[lastPortrait];
     lastPortrait = key;
     clearTimeout(portraitTimer);
     const img = $('portrait');
@@ -56,10 +57,12 @@
         img.classList.toggle('maid-portrait', story.portraits[key].character === '사쿠야');
         img.classList.toggle('full-portrait', key === 'patchouliFull');
         img.classList.toggle('reimu-portrait', story.portraits[key].character === '레이무');
+        img.classList.toggle('cg-portrait', !!story.portraits[key].frame);
+        img.dataset.frame = story.portraits[key].frame || '';
       }
       img.classList.remove('switching');
     };
-    if (immediate) change(); else portraitTimer = setTimeout(change, 210);
+    if (immediate || sameImage) change(); else portraitTimer = setTimeout(change, 210);
   }
   function completeLine() {
     clearTimeout(typeTimer);
@@ -219,14 +222,14 @@
       $('auto-delay').addEventListener('input', e => { settings.delay = Number(e.target.value); storage.settings(settings); labels(); });
     }
     if (kind === 'gallery') {
-      const description = document.createElement('p'); description.className = 'panel-description'; description.textContent = `레밀리아, 사쿠야, 파츄리, 레이무의 ${Object.keys(story.assets).length}가지 모습. 이야기에서 만나게 될 표정과 전신 CG가 포함되어 있습니다.`; content.append(description);
+      const description = document.createElement('p'); description.className = 'panel-description'; description.textContent = `레밀리아, 사쿠야, 파츄리, 레이무의 ${window.VN_ASSETS.galleryKeys.length}가지 모습. 이야기에서 만나게 될 표정과 전신 CG가 포함되어 있습니다.`; content.append(description);
       const galleries = {};
       for (const character of [...new Set(Object.values(story.portraits).map(item => item.character))]) {
         const heading = document.createElement('h3'); heading.className = 'gallery-heading'; heading.textContent = character;
         const gallery = document.createElement('div'); gallery.className = 'gallery'; gallery.setAttribute('aria-label', `${character} 표정`);
         galleries[character] = gallery; content.append(heading, gallery);
       }
-      Object.entries(story.assets).forEach(([key, name]) => {
+      window.VN_ASSETS.galleryKeys.forEach(key => {
         const figure = document.createElement('figure'), img = document.createElement('img'), caption = document.createElement('figcaption');
         const info = story.portraits[key];
         img.src = source(key); img.alt = `${info.character} — ${info.label}`; img.loading = 'lazy'; caption.textContent = info.label;

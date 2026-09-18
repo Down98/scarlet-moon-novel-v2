@@ -1,0 +1,10 @@
+{
+  "generator": "built-in image_gen",
+  "id": "patchouli/smile",
+  "refs": [
+    "D:\\project\\game\\레밀리아\\assets\\파츄리\\cg-v2\\master-reading.png"
+  ],
+  "prompt": "Use case: identity-preserve. Input1 is authoritative Patchouli master. Same face proportions, lavender eyes, long hair/fringe/bows, pale lilac crescent cap, brown neckbow, striped modest dress and long frilled sleeves. Keep EXACT same clean anime cel shading and1024x1536 cap-to-mid-thigh scale. STORY CONTEXT: she has closed her book and is sharing tea with Remilia, gently smiling over her cup. Give her a reserved small warm smile and head tilted7degrees. One hand gently holds one small ivory teacup with fine gold rim at upper chest, BELOW face so expression fully visible. Other arm holds the same CLOSED burgundy book lightly against her waist. Natural fingers; no saucer, no extra books/cups, no open pages. Genuine transparent RGBA background, opaque character/props, clean antialiased outlines. No scenery,table,checkerboard,grain,dots,stippling,3D gloss,text or clothing changes.",
+  "source": "C:\\Users\\user\\.codex\\generated_images\\01a0b34a-ab8d-7e91-8732-6860d7a5b404\\exec-de95de72-0fb6-4bc6-a7e2-26c305c6644c.png",
+  "path": "assets/파츄리/cg-v2/smile.png"
+}

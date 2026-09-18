@@ -1,0 +1,10 @@
+{
+  "generator": "built-in image_gen",
+  "id": "sakuya/alarmed",
+  "refs": [
+    "D:\\project\\game\\레밀리아\\assets\\사쿠야_new\\cg-v2\\neutral.png"
+  ],
+  "prompt": "Use case: identity-preserve. Input1 is the ONLY authoritative Sakuya character master, already in the approved new clean anime art style. Create ONE pose and expression variant, NOT a redesign. EXACT same adult face proportions, blue eyes, silver bob and side braids, teal bow ties, white ruffled headband, navyblue maid bodice with4dark buttons and white apron, black neck ribbon, white puff sleeves/cuffs and shoulder frills. Same clean smooth2D VN cel shading and precise lines. No grain,dots,hatching,texture,3D,glossy realism or painterly rendering. Keep original1024x1536 canvas and same character scale, from headband to mid-thigh with head/arms/hands fully in frame. Genuine transparent RGBA background, character fully opaque, clean antialiased silhouette. Five fingers per hand; no extra limb, tools, text, background or checkerboard. Do NOT alter costume. Change only pose/expression: Suddenly alert and protective while keeping dignity. Head turns15degrees, sharp wide blue eyes and a firmly parted mouth saying stop. One arm extends diagonally across her front at lower chest height to shield someone behind her, hand open and angled sideways, other hand raised near collar. Distinct from a palm-facing-viewer refusal; this is an immediate protective intervention. No blush or smiles, no weapon.",
+  "path": "assets/사쿠야_new/cg-v2/alarmed.png",
+  "source": "C:\\Users\\user\\.codex\\generated_images\\01a0b34a-ab8d-7e91-8732-6860d7a5b404\\exec-394e565b-4e18-448b-9947-a150812c543e.png"
+}

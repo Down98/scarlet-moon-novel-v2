@@ -1,0 +1,10 @@
+{
+  "generator": "built-in image_gen",
+  "id": "patchouli/sorry",
+  "refs": [
+    "D:\\project\\game\\레밀리아\\assets\\파츄리\\cg-v2\\master-reading.png"
+  ],
+  "prompt": "Use case: identity-preserve. Input1 is the ONLY authoritative new Patchouli master. Produce ONE distinct pose variant in EXACT same clean2D anime style and identity. Preserve same face shape, lavender eyes, long muted lavender hair, fringe, pale lilac cap and gold crescent on viewer-right, pink/blue ribbons, brown neck bow, modest lilac-and-white striped dress with long loose sleeves and ruffled shoulder cape. Same burgundy book design. Smooth simple opaque cel color with no grain,dots,stippling,hatching,gloss or3D. Genuine transparent RGBA PNG background, opaque character/book and clean antialiased outline. Canvas1024x1536, same cap-to-mid-thigh framing and scale with head/arms entirely in frame. Five fingers per hand. No extra books, limbs, text, props, backdrop or checkerboard. Change only pose/expression: Quiet apology and concern. Head gently bows10degrees, eyes averted down and to side, brows softly raised at center, small closed worried mouth. Holds a single CLOSED burgundy book close against chest with one arm; opposite fingertips rest gently over book's top edge. Relaxed shoulders, no smiling or crying, keep face visible.",
+  "path": "assets/파츄리/cg-v2/sorry.png",
+  "source": "C:\\Users\\user\\.codex\\generated_images\\01a0b34a-ab8d-7e91-8732-6860d7a5b404\\exec-bcf008c0-6fcc-47b3-b9e2-76f2d4c0f64f.png"
+}

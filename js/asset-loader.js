@@ -3,7 +3,7 @@
   'use strict';
   const manifest = [
     ...Object.values(VN_ASSETS.backgrounds).map(({ src }) => ({ src, kind: 'image', label: '배경' })),
-    ...Object.values(VN_ASSETS.assets).map(src => ({ src: `assets/${src}.webp`, kind: 'image', label: '인물' })),
+    ...[...new Set(Object.values(VN_ASSETS.assets))].map(src => ({ src: `assets/${src}`, kind: 'image', label: '인물' })),
     ...Object.keys(VN_AUDIO_CUES.tracks).map(key => ({ src: `assets/audio/${key}.wav`, key, kind: 'audio', label: '음악' }))
   ];
   const loaded = new Map(), audioSources = new Map();
